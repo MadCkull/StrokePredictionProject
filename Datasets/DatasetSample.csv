@@ -1,0 +1,11 @@
+,Patient_ID,Gender,Age,Hypertension,Heart_Disease,Ever_Married,Work_Type,Residence_Type,Avg_Glucose_Level,BMI,Smoking_Status,Stroke
+0,9046,Male,67,No,Yes,Yes,Private,Urban,228.69,36.6,Formerly Smoked,Yes
+1,51676,Female,61,No,No,Yes,Self-employed,Rural,202.21,,Never Smoked,Yes
+2,31112,Male,80,No,Yes,Yes,Private,Rural,105.92,32.5,Never Smoked,Yes
+3,60182,Female,49,No,No,Yes,Private,Urban,171.23,34.4,Smokes,Yes
+4,1665,Female,79,Yes,No,Yes,Self-employed,Rural,174.12,24.0,Never Smoked,Yes
+5,56669,Male,81,No,No,Yes,Private,Urban,186.21,29.0,Formerly Smoked,Yes
+6,53882,Male,74,Yes,Yes,Yes,Private,Rural,70.09,27.4,Never Smoked,Yes
+7,10434,Female,69,No,No,No,Private,Urban,94.39,22.8,Never Smoked,Yes
+8,27419,Female,59,No,No,Yes,Private,Rural,76.15,,Unknown,Yes
+9,60491,Female,78,No,No,Yes,Private,Urban,58.57,24.2,Unknown,Yes
